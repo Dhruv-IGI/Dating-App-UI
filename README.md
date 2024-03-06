@@ -24,7 +24,14 @@ This Flutter project is a dating app UI designed and implemented as part of the 
 
 
 ## ScreenShots:
-
+<p align="center">
+  <img src="https://github.com/Dhruv-IGI/Dating-App-UI/assets/83370198/58d711aa-6556-4b95-aea7-4f369b97840a" height="700">
+  <img src="https://github.com/Dhruv-IGI/Dating-App-UI/assets/83370198/a8bec7d6-d72f-4c54-a28f-fcac6201d9a9" height="700">
+  <img src="https://github.com/Dhruv-IGI/Dating-App-UI/assets/83370198/ebe7a67f-1895-4ce6-bf78-8acd624d8204" height="700">
+  <img src="https://github.com/Dhruv-IGI/Dating-App-UI/assets/83370198/9f8d88e4-a553-4c65-a6ec-8ce9e3321215" height="700">
+  <img src="https://github.com/Dhruv-IGI/Dating-App-UI/assets/83370198/8c5fd65d-4aa8-41b7-9c1a-f10739525f63" height="700">
+  <img src="https://github.com/Dhruv-IGI/Dating-App-UI/assets/83370198/6e5f730b-f76d-44b7-b7c0-ba127861ce2f" height="700">
+</p>
 
 
 
@@ -41,7 +48,7 @@ This Flutter project is a dating app UI designed and implemented as part of the 
    ```
    flutter run
    ```
-   
+
 ## Contact:
 
 For any inquiries or support, you can reach out to [dhruvvarshney26@gmail.com](mailto:dhruvvarshney26@gmail.com).
