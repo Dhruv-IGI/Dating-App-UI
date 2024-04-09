@@ -1,4 +1,4 @@
-# System Altruism Dating App UI
+# Binge Dating UI
 
 This Flutter project is a dating app UI designed and implemented as part of the assessment for System Altruism Company. The app features various screens including login, sign up, matches profile, search, and user profile screens. It provides users with a seamless experience to navigate through different features of the dating app.
 
